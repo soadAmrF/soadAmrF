@@ -1,4 +1,4 @@
-# Hi, I'm Soad Amr Fathy Mahmoud <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAxOW92YzVwYnc2ZGZkOGhrNjloc2JsYjN3dmxzMW5tOXZnZW54cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="40" height="40">
+# Hi, I'm Soad Amr Fathy Mahmoud <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1NTFpOXQ1Y2N6M3VpN2h0bXNsNXBoN2JyamNvaXhvMmVmdGpkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4l0sSeel6X7tHOFzg/giphy.gif" width="60" height="60">
 
 Frontend Developer | HTML • CSS • JavaScript • React  
 Clean UI • Responsive Design • Real Projects  
