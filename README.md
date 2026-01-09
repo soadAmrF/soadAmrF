@@ -1,6 +1,4 @@
-# Hi, I'm Soad Amr Fathy Mahmoud 👋 ![Coding GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
-
-![Banner](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
+# Hi, I'm Soad Amr Fathy Mahmoud <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="40" height="40">
 
 Frontend Developer | HTML • CSS • JavaScript • React  
 Clean UI • Responsive Design • Real Projects  
