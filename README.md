@@ -1,4 +1,5 @@
-# Hi, I'm Soad Amr Fathy Mahmoud 👋
+# Hi, I'm Soad Amr Fathy Mahmoud 💞
+<img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="60">
 
 ### Full Stack Developer | React.js • Node.js • JavaScript
 
